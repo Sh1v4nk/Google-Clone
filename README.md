@@ -4,19 +4,18 @@ This project is a simple Google clone created using HTML and CSS. It replicates 
 
 ## Getting Started
 
-```bash
+
 To view or work on this project locally, follow these steps:
 
 1. **Clone the repository:**
 git clone https://github.com/Sh1v4nk/Google-Clone.git
 
 2. **Navigate to the project directory:**
-
 cd Google-Clone
 
 3. **Open `index.html` in your web browser:**
 Simply double-click the `index.html` file or right-click and choose your preferred browser to open the page.
-```
+
 
 ## Technologies Used
 
