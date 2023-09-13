@@ -1,6 +1,6 @@
 # Google-Clone
 
-This project is a simple Google clone created using HTML and CSS. It replicates the appearance of the Google homepage, but please note that the functionality is not implemented. This project is intended for educational purposes to practice HTML and CSS skills.
+This project is a simple Google clone created using HTML and CSS. It replicates the appearance of the Google homepage, but please note that the functionality is not implemented. This project is intended for educational purposes to practice HTML and CSS skills. If you're just starting out, you can use it as practise material.
 
 ## Getting Started
 
@@ -8,10 +8,14 @@ This project is a simple Google clone created using HTML and CSS. It replicates 
 To view or work on this project locally, follow these steps:
 
 1. **Clone the repository:**
+ ```bash
 git clone https://github.com/Sh1v4nk/Google-Clone.git
+ ```
 
 2. **Navigate to the project directory:**
+ ```bash
 cd Google-Clone
+ ```
 
 3. **Open `index.html` in your web browser:**
 Simply double-click the `index.html` file or right-click and choose your preferred browser to open the page.
