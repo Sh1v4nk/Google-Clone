@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,14 +24,14 @@
             
         <div class="searchbox">
             <span class="material-symbols-outlined">search</span>
-            <input type="text" class="input">
+            <input type="text" class="input" onkeydown="if(event.keyCode==13){performSearch();return false;}">
             <img src="https://i.ibb.co/Dw5p31g/google-voice.png" alt="Mic icon" height="25px">
             <img src="https://th.bing.com/th/id/OIP.0qiiRITe0DLrcEODODM7AQHaFv?pid=ImgDet&rs=1" alt="Google Lens icon"
                 height="25px">
         </div>
 
         <div class="btn">
-            <a href="#" class="search-button">Google Search</a>
+            <a href="#" class="search-button" onclick="performSearch()">Google Search</a>
             <a href="#" class="lucky">I'm Feeling Lucky</a>
         </div>
 
@@ -43,5 +42,6 @@
         </p>
     </div>
 
+    <script src="script.js"></script>
 </body>
 </html>
