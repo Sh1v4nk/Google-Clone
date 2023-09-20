@@ -2,11 +2,18 @@
 
 This project is a simple Google clone created using HTML and CSS. It replicates the appearance of the Google homepage, and includes basic search functionality. Please note that this project is intended for educational purposes to practice HTML, CSS, and basic JavaScript skills. If you're just starting out, you can use it as practice material.
 
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
+
 ## Getting Started
 
 To view or work on this project locally, follow these steps:
 
-1. **Clone the repository:**
+1. **Clone the repository**
  ```bash
 git clone https://github.com/Sh1v4nk/Google-Clone.git
  ```
@@ -34,10 +41,11 @@ Your contributions can help make this project even better and provide a valuable
 
 > "Alone we can do so little; together we can do so much." - Helen Keller
 
+### Disclaimer
+
+This project is solely for educational purposes and is not intended to replicate Google's functionality or design for commercial purposes. Google's logo and design are registered trademarks of Google LLC.
+
 ---
-
-**Disclaimer:** This project is solely for educational purposes and is not intended to replicate Google's functionality or design for commercial purposes. Google's logo and design are registered trademarks of Google LLC.
-
 
 Thank you for visiting my Google-clone repository. If you have any suggestions or feedback, feel free to reach out to me.
 
@@ -60,4 +68,3 @@ Connect with me:
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
