@@ -6,6 +6,7 @@ This project is a simple Google clone created using HTML and CSS. It replicates 
 
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 
@@ -32,6 +33,10 @@ Simply double-click the `index.html` file or right-click and choose your preferr
 - HTML
 - CSS
 - JavaScript
+
+## Demo
+
+You can view the live demo of the Google-clone project [here](https://sh1v4nk.github.io/Google-Clone/).
 
 ## Contributing
 
