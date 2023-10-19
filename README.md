@@ -44,7 +44,6 @@ Your contributions are warmly welcomed! If you'd like to improve the project or 
 
 Your contributions can help make this project even better and provide a valuable learning experience for others. Your efforts in enhancing this project are greatly appreciated. Thank you for being part of making this project even better!
 
-> "Alone we can do so little; together we can do so much." - Helen Keller
 
 ### Disclaimer
 
