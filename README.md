@@ -14,7 +14,7 @@ This project is a simple Google clone created using HTML and CSS. It replicates 
 
 To view or work on this project locally, follow these steps:
 
-1. **Clone the repository**
+1. **Clone the repository:**
  ```bash
 git clone https://github.com/Sh1v4nk/Google-Clone.git
  ```
