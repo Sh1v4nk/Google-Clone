@@ -38,13 +38,6 @@ Simply double-click the `index.html` file or right-click and choose your preferr
 
 You can view the live demo of the Google-clone project [here](https://sh1v4nk.github.io/Google-Clone/).
 
-## Contributing
-
-Your contributions are warmly welcomed! If you'd like to improve the project or add your touch to it, feel free to jump in. Whether it's a small tweak or a significant enhancement, every contribution is valued.
-
-Your contributions can help make this project even better and provide a valuable learning experience for others. Your efforts in enhancing this project are greatly appreciated. Thank you for being part of making this project even better!
-
-
 ### Disclaimer
 
 This project is solely for educational purposes and is not intended to replicate Google's functionality or design for commercial purposes. Google's logo and design are registered trademarks of Google LLC.
