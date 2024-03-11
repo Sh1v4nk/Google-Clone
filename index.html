@@ -24,7 +24,7 @@
             
         <div class="searchbox">
             <span class="material-symbols-outlined">search</span>
-            <input type="text" class="input" onkeydown="if(event.keyCode==13){performSearch();return false;}">
+            <input type="text" class="input" onkeydown="if(event.keyCode==13){performSearch();return false;} oninput="provideAutoSuggestions()">
             <img src="https://i.ibb.co/Dw5p31g/google-voice.png" alt="Mic icon" height="25px">
             <img src="https://th.bing.com/th/id/OIP.0qiiRITe0DLrcEODODM7AQHaFv?pid=ImgDet&rs=1" alt="Google Lens icon"
                 height="25px">
@@ -40,6 +40,7 @@
             <a href="#">தமிழ்</a> <a href="#">ગુજરાતી</a> <a href="#">ಕನ್ನಡ</a> <a href="#">മലയാളം</a> <a
                 href="#">ਪੰਜਾਬੀ</a>
         </p>
+         <ul class="suggestion-list"></ul>
     </div>
 
     <script src="script.js"></script>
