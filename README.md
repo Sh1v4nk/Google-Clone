@@ -21,7 +21,7 @@ git clone https://github.com/Sh1v4nk/Google-Clone.git
 
 2. Open the `index.html` file in your web browser.
 
-3. Alternatively, you can view a live demo of the SnakeXenzia [here](https://sh1v4nk.github.io/Google-Clone/).
+3. Alternatively, you can view a live demo of the Google-Clone [here](https://sh1v4nk.github.io/Google-Clone/).
 
 ## Technologies Used
 
