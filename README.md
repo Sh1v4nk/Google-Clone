@@ -28,6 +28,12 @@ git clone https://github.com/Sh1v4nk/Google-Clone.git
 - CSS
 - JavaScript
 
+## Screenshot
+
+<div align="center">
+  <img src="https://i.ibb.co/pJPHgKX/image.png" alt="Google-Clone-Screenshot">
+</div>
+
 ### Disclaimer
 
 This project is solely for educational purposes and is not intended to replicate Google's functionality or design for commercial purposes. Google's logo and design are registered trademarks of Google LLC.
