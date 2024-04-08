@@ -6,6 +6,7 @@ This project is a simple Google clone created using HTML and CSS. It replicates 
 
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
+- [Screenshot](#screenshot)
 - [Disclaimer](#disclaimer)
 
 ## Getting Started
