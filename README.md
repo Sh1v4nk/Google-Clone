@@ -1,6 +1,6 @@
 # Google-Clone
 
-This project is a simple Google clone created using HTML and CSS. It replicates the appearance of the Google homepage, and includes basic search functionality. Please note that this project is intended for educational purposes to practice HTML, CSS, and basic JavaScript skills. If you're just starting out, you can use it as practice material.
+This is a practice project that clones the look of Google's homepage using HTML and CSS. It includes a basic search bar with basic search functionality (great for learning HTML, CSS, and intro to JavaScript).
 
 ## Table of Contents
 
