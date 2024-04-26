@@ -9,7 +9,7 @@ This is a practice project that clones the look of Google's homepage using HTML 
 - [Screenshot](#screenshot)
 - [Disclaimer](#disclaimer)
 
-## Getting Started
+## 🚀 Getting Started
 
 To view or work on this project locally, follow these steps:
 
@@ -23,19 +23,19 @@ git clone https://github.com/Sh1v4nk/Google-Clone.git
 
 3. Alternatively, you can view a live demo of the [Google-Clone](https://sh1v4nk.github.io/Google-Clone/).
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Screenshot
+## 📸 Screenshot
 
 <div align="center">
   <img src="https://i.ibb.co/pJPHgKX/image.png" alt="Google-Clone-Screenshot">
 </div>
 
-### Disclaimer
+### ⚠️ Disclaimer
 
 This project is solely for educational purposes and is not intended to replicate Google's functionality or design for commercial purposes. Google's logo and design are registered trademarks of Google LLC.
 
