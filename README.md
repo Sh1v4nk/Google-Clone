@@ -18,14 +18,14 @@ To view or work on this project locally, follow these steps:
 ```bash
 git clone https://github.com/Sh1v4nk/Google-Clone.git
 ```
-
+2. Navigate into the project directory:
 ```
  cd Google-Clone
 ```
 
-2. Open the `index.html` file in your web browser.
+3. Open the `index.html` file in your web browser.
 
-3. Alternatively, you can view a live demo of the [Google-Clone](https://sh1v4nk.github.io/Google-Clone/).
+4. Alternatively, you can view a live demo of the [Google-Clone](https://sh1v4nk.github.io/Google-Clone/).
 
 ## Technologies Used
 
