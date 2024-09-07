@@ -1,6 +1,11 @@
+<div align="center">
+ 
 # Google-Clone
 
 This is a practice project that clones the look of Google's homepage using HTML and CSS. It includes a basic search bar with basic search functionality (great for learning HTML, CSS, and intro to JavaScript).
+
+</div>
+
 
 ## Table of Contents
 
