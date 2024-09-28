@@ -3,7 +3,7 @@
 # Google-Clone
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-![GitHub repo size](https://img.shields.io/github/repo-size/Sh1v4nk/SnakeXenzia)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sh1v4nk/Google-Clone)
 
 This is a practice project that clones the look of Google's homepage using HTML and CSS. It includes a basic search bar with basic search functionality (great for learning HTML, CSS, and intro to JavaScript).
 
